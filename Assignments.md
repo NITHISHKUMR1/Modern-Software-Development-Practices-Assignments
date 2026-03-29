@@ -2,12 +2,12 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students
->
+>https://verify.skilljar.com/c/5fkg63rda5hm
 > Kindly submit the verification link here 
 > - Introduction to Agent Skills
 >
 > Kindly submit the verification link here
-> 
+> https://verify.skilljar.com/c/63z6nikobcvo
 > Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
