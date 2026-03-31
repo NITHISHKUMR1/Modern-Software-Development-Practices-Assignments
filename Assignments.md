@@ -28,24 +28,13 @@ https://github.com/NITHISHKUMR1/AIML-one-credit/blob/main/README.md
 > Team Project: AI Full Stack Application
 >
 > - Kindly submit the GitHub Repo URL
->
+> https://github.com/SAKTHIVEL280/taskflow.git
 > - Kindly submit the Live Application URL (Domain)
->
+> 
 > - Kindly submit the GitHub Pages (Documentation) URL
+> - https://sakthivel280.github.io/taskflow/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
-> 
+> https://www.linkedin.com/posts/activity-7444675273939185665-YNGZ?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAD2H91ABm7D2KWJDfNtR3SxbZb-RcNJC-E8&utm_campaign=whatsapp
 > [LinkedIn post URL]
-
-## For Second Year Buddies
-
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
