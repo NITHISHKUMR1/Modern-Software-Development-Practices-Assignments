@@ -23,13 +23,16 @@
 >https://nithishkumarportfolio.vercel.app/
 
 > - Kindly submit the GitHub Pages (Documentation) URL
-https://github.com/NITHISHKUMR1/AIML-one-credit/blob/main/README.md
+https://nithishkumr1.github.io/AIML-one-credit/
+
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
 > - Kindly submit the GitHub Repo URL
 > https://github.com/SAKTHIVEL280/taskflow.git
+
 > - Kindly submit the Live Application URL (Domain)
+> - taskflow-o44jz6bql-sakthivel280s-projects.vercel.app
 > 
 > - Kindly submit the GitHub Pages (Documentation) URL
 > - https://sakthivel280.github.io/taskflow/
